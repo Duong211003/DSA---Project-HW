@@ -1,0 +1,17 @@
+# bài 1 
+print("Hello World")
+
+# Bài 2 
+int_HelloWorld = int("Hello World")
+print(int_HelloWorld)
+
+#Bài 3
+a = "Hello"
+b = "World"
+print(a + ' ' + b)
+
+#Bài 4 
+a = "Hello"
+b = "World"
+c = a + " " + b
+print(c)
